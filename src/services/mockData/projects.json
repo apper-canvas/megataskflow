@@ -1,0 +1,42 @@
+[
+  {
+    "id": "work",
+    "name": "Work Projects",
+    "color": "#6366F1",
+    "icon": "Briefcase",
+    "taskCount": 5,
+    "order": 0
+  },
+  {
+    "id": "personal",
+    "name": "Personal",
+    "color": "#EC4899",
+    "icon": "User",
+    "taskCount": 4,
+    "order": 1
+  },
+  {
+    "id": "learning",
+    "name": "Learning & Development",
+    "color": "#8B5CF6",
+    "icon": "BookOpen",
+    "taskCount": 2,
+    "order": 2
+  },
+  {
+    "id": "health",
+    "name": "Health & Fitness",
+    "color": "#10B981",
+    "icon": "Heart",
+    "taskCount": 0,
+    "order": 3
+  },
+  {
+    "id": "home",
+    "name": "Home & Garden",
+    "color": "#F59E0B",
+    "icon": "Home",
+    "taskCount": 0,
+    "order": 4
+  }
+]
